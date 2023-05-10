@@ -1,0 +1,13 @@
+package ch06.sec09;
+
+public class CarExample {
+
+	public static void main(String[] args) {
+		Car myCar=new Car("Æ÷·Î½¦");
+		Car yourCar=new Car("º¥Ã÷");
+		
+		myCar.run();
+		yourCar.run();
+	}
+
+}

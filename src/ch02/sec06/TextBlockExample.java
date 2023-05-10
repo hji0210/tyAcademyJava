@@ -6,14 +6,14 @@ public class TextBlockExample {
 	    String str1 = "" +
 	    "{\n" + 
 	    "\t\"id\":\"winter\",\n" +
-	    "\t\"name\":\"´«¼ÛÀÌ\"\n" +
+	    "\t\"name\":\"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\"\n" +
 	    "}"; }
 }
 	    
 //	    String str2 = """     
 //	    	{
 //	    			"id":"winter",
-//	    			"name":"´«¼ÛÀÌ"
+//	    			"name":"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
 //	    	}
 //           """;
 //	    
@@ -22,9 +22,9 @@ public class TextBlockExample {
 //	    System.out.println(str2);
 //	    System.out.println("------------------------------");
 //	    String str = """
-//	    ³ª´Â ÀÚ¹Ù¸¦\
-//	    ÇÐ½ÀÇÕ´Ï´Ù.
-//	    ³ª´Â ÀÚ¹Ù °í¼ö°¡ µÉ°Ì´Ï´Ù
+//	    ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¹Ù¸ï¿½\
+//	    ï¿½Ð½ï¿½ï¿½Õ´Ï´ï¿½.
+//	    ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¹ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½É°Ì´Ï´ï¿½
 //	    """;
 //	    System.out.println(str);
 //	    }

@@ -1,10 +1,10 @@
-package ch4.sec08;
+package cho4.sec05;
 
-public class ContinueExample {
+public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		System.out.println("test");
 	}
 
 }

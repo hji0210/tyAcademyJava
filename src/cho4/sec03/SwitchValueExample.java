@@ -9,14 +9,14 @@ public class SwitchValueExample {
        int score1 = 0;
        switch(grade) {
             case "A" :
-	            score1 = 100;
+	            score 1 = 100;
 	             break;
             case "B" :
 	           int result = 100-20;
-	         score1 = result;
+	         score 1 = result;
 	         break;
 	         default :
-		      score1 = 60;
+		      score 1 = 60;
 	        }
              System.out.println("score1: + score1");
 
@@ -32,6 +32,6 @@ public class SwitchValueExample {
 //        default ->60;
 //        };
 //        System.out.println("score2: " + score2");
-	}
-
-}                                     
+//	}
+//
+//}
